@@ -7,3 +7,61 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.container {
+  margin: auto;
+	background-color: #80808087;
+	height: 150px;
+	width: 150px;
+}
+
+.container-circle {
+	position: relative;
+	margin-left: 10px;
+	background-color: white;
+	color: #80808087;
+	height: 150px;
+	width: 130px;
+	border-radius: 50%;
+}
+
+.container-circle div {
+	position: absolute;
+}
+
+img {
+	height: 23px;
+	width: 23px;
+}
+
+.menu {
+	top: 12px;
+	left: 40px;
+}
+
+.reverse {
+	top: 65px;
+	right: 8px;
+}
+
+.forward {
+	top: 65px;
+	left: 8px;
+}
+
+.play {
+	top: 120px;
+	left: 50px;
+}
+
+.play i {
+	font-size: 15px;
+}
+
+.circle {
+	top: 44px;
+	left: 37px;
+	background-color: #80808087;
+	height: 60px;
+	width: 54px;
+	border-radius: 50%;
+}
