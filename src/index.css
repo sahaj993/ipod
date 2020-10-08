@@ -23,11 +23,11 @@ body {
 	width: 130px;
 	border-radius: 50%;
 }
-
+/* 
 .container-circle div {
 	position: absolute;
 }
-
+ */
 img {
 	height: 23px;
 	width: 23px;
@@ -52,11 +52,11 @@ img {
 	top: 120px;
 	left: 50px;
 }
-
+*/
 .play i {
 	font-size: 15px;
-} */
-
+} 
+/* 
 .circle {
 	top: 44px;
 	left: 37px;
@@ -64,4 +64,4 @@ img {
 	height: 60px;
 	width: 54px;
 	border-radius: 50%;
-} 
+}  */
